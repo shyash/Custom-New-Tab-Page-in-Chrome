@@ -76,6 +76,11 @@
 		.disable{
 			font-size: 33px;
    			margin: 20px;
+   			margin-bottom: 15px;
+		}
+		.note{
+			font-size:15px;
+   			margin-left: 20px;
 
 		}
 		footer{
