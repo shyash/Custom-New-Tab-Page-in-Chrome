@@ -6,5 +6,6 @@
 		"default_icon":  "logo.png",
 		"default_title": "Custom New Tab"
 	},
-	"permissions" : ["storage","unlimitedStorage"]
+	"permissions" : ["storage","unlimitedStorage"],
+	"options_page": "options.html"
 }
